@@ -9,7 +9,6 @@ Result Page:
 ![image](https://github.com/khushpreet-007/calculator_spring_boot/assets/75271300/df8a0028-0a71-422f-8b10-8f3ccc241728)
 
 Working: 
-Sure, I'll explain the data flow in the calculator code from the user input through the controller.
 
 1. **User Input (HTML Form):**
    - The user interacts with the HTML form, providing input values for `num1` and `num2` in the text fields and selecting an operation from the dropdown (`operation`).
